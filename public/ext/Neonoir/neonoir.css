@@ -1,0 +1,8 @@
+@font-face {font-family: "Neonoir W01 Slim";
+    src: url("2e2af49d8291b7fda88a175bf083d76f.eot"); /* IE9*/
+    src: url("2e2af49d8291b7fda88a175bf083d76f.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("2e2af49d8291b7fda88a175bf083d76f.woff2") format("woff2"), /* chrome、firefox */
+    url("2e2af49d8291b7fda88a175bf083d76f.woff") format("woff"), /* chrome、firefox */
+    url("2e2af49d8291b7fda88a175bf083d76f.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("2e2af49d8291b7fda88a175bf083d76f.svg#Neonoir W01 Slim") format("svg"); /* iOS 4.1- */
+  }

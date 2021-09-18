@@ -1,0 +1,23 @@
+@import 'normalize.css';
+@import '/ext/Neonoir/neonoir.css';
+
+.nav-head{
+    font-family: "Neonoir W01 Slim";
+    text-shadow: 0 0 10px #03ac03;
+    font-size: 2rem;
+}
+nav{
+    background-color: darkgreen;
+    width: 100%;
+    font-size: 1.2rem;
+}
+
+.btn-rounded{
+    border-radius: 1.5rem;
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
